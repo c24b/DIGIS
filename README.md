@@ -1,5 +1,38 @@
 # Sprint2024
 
+Bienvenue sur le dépôt du sprint DIGIS 2024!  
+
+Toute la documentation est dans le [wiki](https://framagit.org/digis/sprint2024/-/wikis/home)
+Toutes les ressources sont stockées dans ce dépot
+Tous les exemples de code sont dans les [snippets](https://framagit.org/digis/sprint2024/-/snippets)
+
+Si vous êtes arrivé jusqu'ici, 
+- [x] vous avez créé un compte sur framagit.org avez votre identifiant et votre mot de passe
+- [x] rejoint le groupe [DIGIS](https://framagit.org/digis/)
+- [x] rejoint le projet [SPRINT 2024](https://framagit.org/digis/sprint2024)  
+
+Ce qu'il vous reste à faire:
+- [ ] Créer un groupe pour votre équipe de SPRINT
+- [ ] Enregistrer votre équipe dans le wiki du SPRINT
+
+## Getting started
+
+To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+
+Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+
+## Add your files
+
+- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
+- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+
+```
+cd existing_repo
+git remote add origin https://framagit.org/digis/sprint2024.git
+git branch -M main
+git push -uf origin main
+```
+
 
 
 ## Getting started
